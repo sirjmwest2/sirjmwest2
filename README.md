@@ -1,4 +1,4 @@
-<h1>Hello and welcome to my page, I'm James! <br/><a href="https://github.com/sirjmwest2/">Systems Administrator</a>, <a href="https://www.linkedin.com/in/sirjmwest2/">Information Access Management</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>"Managed Services"</a>
+<h1>Hello and welcome to my page, I'm James! <br/><a href="https://github.com/sirjmwest2/">Systems Administrator</a>, <a href="https://www.linkedin.com/in/sirjmwest2/">Information Access Management</a>, <a "Cyber Security Professional"</a> <a href="https://www.youtube.com/">YouTuber</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
