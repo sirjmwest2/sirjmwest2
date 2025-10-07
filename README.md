@@ -30,16 +30,16 @@
 - 
 <h2>👨‍💻 Websites Created/Managed for Clients:</h2>
 
--Created https://StanleyCooperWebb.Net
--Created/Maintained https://StanleyCooperWebb.Com
--Created https://vacationgrace.com/
--Created/Maintained https://focusn.square.site/
--Created/Maintained https://stanleycooperwebb.square.site/
--Created https://stanleycooperwebb.wixsite.com/scwdt
--Maintained https://bigsalefashion.com/
--Created/Maintained https://www.etsy.com/shop/stanleycooperwebb/
--Maintained https://www.facebook.com/FNFlair/
--Maintained https://www.facebook.com/StanleyCooperWebb/
+- <b>Created https://StanleyCooperWebb.Net
+- <b>Created/Maintained https://StanleyCooperWebb.Com
+- <b>Created https://vacationgrace.com/
+- <b>Created/Maintained https://focusn.square.site/
+- <b>Created/Maintained https://stanleycooperwebb.square.site/
+- <b>Created https://stanleycooperwebb.wixsite.com/scwdt
+- <b>Maintained https://bigsalefashion.com/
+- <b>Created/Maintained https://www.etsy.com/shop/stanleycooperwebb/
+- <b>Maintained https://www.facebook.com/FNFlair/
+- <b>Maintained https://www.facebook.com/StanleyCooperWebb/
 
 <h2>👨‍💻 Skills:</h2>
 
