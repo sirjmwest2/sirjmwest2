@@ -27,6 +27,19 @@
 - <b>Visitor & Credentialing: Vendormate, Passagepoint, Nepps Hugs Baby Solutions, CESI ReportExec.
 
 - <b>Administrative & HR Systems: Workday, Paylocity, ADP, NetSuite, Epic (HER), PeopleSoft, Square Block.
+- 
+<h2>👨‍💻 Websites Created/Managed for Clients:</h2>
+
+-Created https://StanleyCooperWebb.Net
+-Created/Maintained https://StanleyCooperWebb.Com
+-Created https://vacationgrace.com/
+-Created/Maintained https://focusn.square.site/
+-Created/Maintained https://stanleycooperwebb.square.site/
+-Created https://stanleycooperwebb.wixsite.com/scwdt
+-Maintained https://bigsalefashion.com/
+-Created/Maintained https://www.etsy.com/shop/stanleycooperwebb/
+-Maintained https://www.facebook.com/FNFlair/
+-Maintained https://www.facebook.com/StanleyCooperWebb/
 
 <h2>👨‍💻 Skills:</h2>
 
