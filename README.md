@@ -1,8 +1,8 @@
-<h1>Welcome to my page, I'm James! <br/><a href="https://github.com/sirjmwest2/">Systems Administrator, Cyber Security Porfessional</a>, <a href="https://www.linkedin.com/in/sirjmwest2/">Information Access Management</a>, <a "Cyber Security Professional"</a> <a href="https://www.youtube.com/">YouTuber</a> </h1>
+<h1>Welcome to my Portfolio, I'm James! <br/><a href="https://github.com/sirjmwest2/">MSc in Information Systems Management, Systems Administrator, Security Systems Administrator,  Zero-Cost Self-Hosted Infrastructure</a>, <a href="https://www.linkedin.com/in/sirjmwest2/">Information Access Management</a>, <a "Cyber Security Professional"</a> <a href="https://www.youtube.com/">YouTuber</a> </h1>
 
 <h2>👨‍💻Security Systems Administrator & Project Coordinator :</h2>
 
-<b>A dedicated and versatile professional with a passion for managing intelligent security solutions. My career is defined by successfully leading complex, projects from initial design to final implementation, with a strong focus on access control, video surveillance, intrusion detection and video conferencing.
+<b>Currently I am a Senior Security Systems Administrator with 15+ years of experience securing high-compliance enterprise environments (Healthcare, Public Safety, University, GovTech). My work operates at the intersection of Physical Security, Managed Services, open-source IT infrastructure, Access Control and AI governance. A dedicated and versatile professional with a passion for managing intelligent security solutions. My career is defined by successfully leading complex, projects from initial design to final implementation, with a strong focus on access control, video surveillance, OS Deployments and video conferencing. 
 
 <h2>👨‍💻 Professional Accomplishments:</h2>
 
