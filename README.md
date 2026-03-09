@@ -2,9 +2,11 @@
 
 <h2>👨‍💻Security Systems Administrator & Project Coordinator :</h2>
 
-<b>Currently I am a Senior Security Systems Administrator with 15+ years of experience securing high-compliance enterprise environments (Healthcare, Public Safety, University, GovTech). My work operates at the intersection of Physical Security, Managed Services, open-source IT infrastructure, Access Control and AI governance. A dedicated and versatile professional with a passion for managing intelligent security solutions. My career is defined by successfully leading complex, projects from initial design to final implementation, with a strong focus on access control, video surveillance, OS Deployments and video conferencing. 
+<b>Currently I am a Senior Security Systems Administrator with 15+ years of experience securing high-compliance enterprise environments across Healthcare, Public Safety, Higher Education and GovTech. My architecture operates at the intersection of Physical Security Information Management (PSIM), Managed Services, open-source IT infrastructure, Information Access Management (IAM), and AI governance.
 
-<h2>👨‍💻 Professional Accomplishments:</h2>
+I am a dedicated, security-first professional driven by a passion for managing intelligent, self-hosted solutions. My career is defined by successfully leading complex projects from initial infrastructure design to final deployment, with a strong focus on zero-trust access control, video surveillance network topology, OS deployments, and 
+
+<h2>🏆 Professional Accomplishments:</h2>
 
 - <b>CCure 9000 Enterprise Upgrade: Led a multi-year, campus-wide upgrade from Lenel to the legacy CCure 800 system to CCure 9000, including subsequent upgrades and data migrations for both public safety and campus-wide users.
 
@@ -20,40 +22,55 @@
 
 <h2>👨‍💻 Technical Expertise & Systems:</h2>
 
-- <b>Access Control & Intrusion: Lenel, CCure 800, CCure 9000, Bosch Systems (Radionics), Lawson Access Control, Credential Verification.
+- <b>Access Control & Intrusion: Lenel OnGuard, CCure 800, CCure 9000, Bosch/Radionics, Lawson Access Control, Credential Verification.
 
-- <b>Video Surveillance & Conferencing: Genetec, DVTel, Axis Cameras, FLIR Cameras, Microsoft Teams, BlueJeans, Goto Meeting, Zoom, MediaSite, MediaSuite, Google Meet, Solstice, Polycomm, Creston.
+- <b>Video Surveillance & Conferencing: Genetec (Omnicast/Synergis, DVTel, Axis Cameras, FLIR Cameras, Microsoft Teams, BlueJeans, Goto Meeting, Zoom, MediaSite, MediaSuite, Google Meet, Solstice, Polycomm, Creston.
 
 - <b>Visitor & Credentialing: Vendormate, Passagepoint, Nepps Hugs Baby Solutions, CESI ReportExec.
 
 - <b>Administrative & HR Systems: Workday, Paylocity, ADP, NetSuite, Epic (HER), PeopleSoft, Square Block.
-- 
-<h2>👨‍💻 Websites Created/Managed for Clients:</h2>
 
-- <b>Created https://StanleyCooperWebb.Net
-- <b>Created/Maintained https://StanleyCooperWebb.Com
-- <b>Created https://vacationgrace.com/
-- <b>Created/Maintained https://focusn.square.site/
-- <b>Created/Maintained https://stanleycooperwebb.square.site/
-- <b>Created https://stanleycooperwebb.wixsite.com/scwdt
-- <b>Maintained https://bigsalefashion.com/
-- <b>Created/Maintained https://www.etsy.com/shop/stanleycooperwebb/
-- <b>Maintained https://www.facebook.com/FNFlair/
-- <b>Maintained https://www.facebook.com/StanleyCooperWebb/
+
+<h2>🌐 Web Architecture & Digital Operations</h2>
+Sites Created, Managed, & Administered for Clients:
+
+- <b>Corporate & Portfolio: StanleyCooperWebb.Net | StanleyCooperWebb.Com
+https://StanleyCooperWebb.Net https://StanleyCooperWebb.Com
+- <b>E-Commerce & Retail: BigSaleFashion.com | StanleyCooperWebb Etsy
+  https://bigsalefashion.com/ https://www.etsy.com/shop/stanleycooperwebb/
+- <b>Client Operations: VacationGrace.com
+  https://vacationgrace.com/
+- <b>Square/Wix Ecosystems: FocusN Square | SCW Square | SCWDT Wix
+  https://focusn.square.site/ https://stanleycooperwebb.square.site/ stanleycooperwebb.wixsite.com/scwdt 
+- <b>Social Strategy: FNFlair Facebook | StanleyCooperWebb Facebook
+https://www.facebook.com/FNFlair/ https://www.facebook.com/StanleyCooperWebb/
 
 <h2>👨‍💻 Skills:</h2>
 
 - <b>Project Management & Coordination
+Jira, Monday.com, SmartSheets, Slack, Microsoft 365, Google Workspace (Admin), Square Ecosystem (Payroll/POS/Retail).
 
 - <b>Physical & Identity Security
+CCure 9000/800, Genetec (Omnicast/Synergis), Lenel OnGuard, PassagePoint, CESI Report Exec/Dispatch, DVTel, GHX Vendormate, IAM Provisioning.
 
-- <b>Risk Assessment & Governance
+- <b>HRIS Human Resources Onboarding EHR and Payroll
+Paylocity, Workday, Navicare, Netsmart, EPIC, Kronos, E-Star, Found, Square, Mercury, CJIS, HIPAA, NIST 800-53.
 
 - <b>Cross-functional Team Leadership, Staff Trainer and Consultant
+Training, Onboarding, Inservice, Process Development, Policy Creation & Training, Vendor, Staff & Stakeholder Management.
 
-- <b>Vendor, Staff & Stakeholder Management
-
-- <b>Process Development, Policy Creation & Training
+- <b>Automation & AI
+n8n (Modular Workflows), Ollama, ComfyUI, Automated System Architecture, baserow.
 
 - <b>Multimedia Systems Management, Marketing, Videography, Photography and Event Management.
+Adobe Suite (Premiere/Photoshop), OBS Studio, CapCut, Audacity, Polycom, Crestron, BrightSign, Zoom Workspace, Wondershare Filmora, Webex, Microsoft Teams.
 
+<h2>💻 Current R&D & Focus Area:</h2>
+
+- <b>Self-Hosted Architecture: Building and hardening a Zero-Cost Linux Home Server Lab (Proxmox, Ubuntu Noble, Docker, modular container routing via Nginx Proxy Manager).
+
+- <b>Professional Development: Actively pursuing the CompTIA PMP Certification, Database Management architectures, and legacy system integration (Cobol).
+  
+- <b>Hardware Auditing: Exploring physical security and wireless exploitation vectors utilizing the Flipper Zero.
+  
+- <b> - <b> - <b>
